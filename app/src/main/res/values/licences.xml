@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="license_app_title">This app use Apache 2 Licence.</string>
+
+    <string name="license_app_licence" translatable="false">
+            Copyright 2020 lubenard\n\n
+
+        Licensed under the Apache License, Version 2.0 (the "License");\n
+        you may not use this file except in compliance with the License.\n
+        You may obtain a copy of the License at\n\n
+
+            http://www.apache.org/licenses/LICENSE-2.0\n\n
+
+        Unless required by applicable law or agreed to in writing, software\n
+        distributed under the License is distributed on an "AS IS" BASIS,\n
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n
+        See the License for the specific language governing permissions and\n
+        limitations under the License.\n
+    </string>
+
+    <string name="license_app_source">You can see the source code of this app here :\n
+    https://github.com/utkarshdevlab
+    </string>
+
+    <string name="license_mpandroidCharts_title">This app use parts of <b>MPAndroidCharts</b> under the Apache 2 Licence.</string>
+
+    <string name="license_mpandroidCharts_licence" translatable="false">
+            Copyright 2020 Philipp Jahoda\n\n
+
+        Licensed under the Apache License, Version 2.0 (the "License");\n
+        you may not use this file except in compliance with the License.\n
+        You may obtain a copy of the License at\n\n
+
+            http://www.apache.org/licenses/LICENSE-2.0\n\n
+
+        Unless required by applicable law or agreed to in writing, software\n
+        distributed under the License is distributed on an "AS IS" BASIS,\n
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n
+        See the License for the specific language governing permissions and\n
+        limitations under the License.\n
+    </string>
+
+    <string name="license_mpandroidCharts_source">You can see the source code of this library here :\n
+    https://github.com/PhilJay/MPAndroidChart
+    </string>
+
+    <string name="license_XmlWriter_title">This app use parts of <b>other github projects</b>.</string>
+
+    <string name="license_XmlWriter_licence">Copyright (c) 2022, Utkarsh and Shubham\n
+       All rights reserved.\n
+       Redistribution and use in source and binary forms, with or without modification, are permitted provided that the \n
+       following conditions are met:\n
+       Redistributions of source code must retain the above copyright notice,\n
+       this list of conditions and the following disclaimer.\n
+       Redistributions in binary form must reproduce the above copyright notice,\n
+       this list of conditions and the following disclaimer in the documentation\n
+       and/or other materials provided with the distribution.\n Neither the name of XmlWriter nor the names of its contributors\n
+       may be used to endorse or promote products derived from this software\n
+       without specific prior written permission.\n
+       THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n
+       AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n
+       ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE\n
+       LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\n
+       CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\n
+       SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\n
+       INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\n
+       CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\n
+       ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\n
+       POSSIBILITY OF SUCH DAMAGE.\n</string>
+
+    <string name="license_XmlWriter_source">You can see the source code of this library here :\n
+    https://github.com/menny/Java-very-tiny-XmlWriter
+    </string>
+
+</resources>
